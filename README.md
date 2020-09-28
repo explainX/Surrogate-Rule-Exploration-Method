@@ -1,4 +1,5 @@
 <h1 align="center">
+	<img width="300" src="https://i.ibb.co/yY7tfDg/Logo.jpg" alt="explainX.ai"> 
 	<br>
 </h1>
 
@@ -91,5 +92,3 @@ Please make sure to update tests as appropriate.
 
 Please help us by [reporting any issues](https://github.com/explainX/explainx_pro/issues) you may have while using explainx_pro.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
